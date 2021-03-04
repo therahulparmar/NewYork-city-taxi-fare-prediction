@@ -1,1 +1,1 @@
-# AU_ML_Project
+# Machine Learning Project
